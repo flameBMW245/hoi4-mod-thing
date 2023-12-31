@@ -1,0 +1,29 @@
+state={
+	id=431
+	name="STATE_431"
+	resources={
+		steel=13.000
+		# tungsten=11.000
+	}
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+
+		}
+		add_core_of = BAN
+		add_core_of = RAJ
+
+	}
+
+	provinces={
+		1609 7565 12050 12338 9935 2843 7124 4616 7662 10443 10389
+	}
+	manpower=223000
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=0.0 
+}

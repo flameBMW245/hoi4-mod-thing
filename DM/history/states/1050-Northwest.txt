@@ -1,0 +1,22 @@
+state={
+	id=1050
+	name="STATE_1050"
+	history={
+		owner = VIN
+		add_core_of = VIE
+		add_core_of = VIN
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		set_demilitarized_zone = yes
+	}
+	provinces={
+		12075 12319 4529 10103
+	}
+	manpower=73549
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

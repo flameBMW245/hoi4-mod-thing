@@ -1,0 +1,28 @@
+
+state={
+	id=742
+	name="STATE_742"
+
+	history={
+		owner = TAJ
+		victory_points = {
+			1384 1 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = SOV
+		add_core_of = TAJ
+		add_core_of = BUK
+
+	}
+
+	provinces={
+		1384 12250 10205 4542
+	}
+	manpower=230000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

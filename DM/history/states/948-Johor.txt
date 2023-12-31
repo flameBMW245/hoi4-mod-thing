@@ -1,0 +1,25 @@
+state={
+	id=948
+	name="STATE_948"
+	resources={
+		rubber=53.000
+	}
+
+	history={
+		owner = MAL
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			}
+		add_core_of = MAL
+
+	}
+
+	provinces={
+		4424 10313 
+	}
+	manpower=977180
+	state_category=large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

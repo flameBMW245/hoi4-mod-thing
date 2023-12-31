@@ -1,0 +1,35 @@
+﻿capital = 58
+
+set_research_slots = 2
+
+set_technology = {
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = despotism
+	last_election = "1935.5.19"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	conservatism_ideology = 10
+	neutrality = 65
+	fascism = 5
+	communism = 20
+}
+
+create_country_leader = {
+	name = "Danish General"
+	desc = ""
+	picture = "gfx/leaders/HLS/Danish General.dds"
+	ideology = despotism1
+	traits ={
+		#
+	}
+}

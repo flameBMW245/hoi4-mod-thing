@@ -1,0 +1,19 @@
+characters={
+	BUL_simeon_ii={
+		name=BUL_simeon_ii
+		portraits={
+			civilian={
+				large="GFX_portrait_bul_simeon_ii"
+			}
+		}
+		country_leader={
+			ideology=controlled_democracy
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = BUL_SIMEON_II_DESC
+		}
+	}
+
+	
+}

@@ -1,0 +1,104 @@
+﻿capital = 1060 # Nanjing
+
+recruit_character = CHI_sun_fo
+recruit_character = CHI_legislative_yuan
+
+set_stability = 0.2
+set_war_support = 0.5
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	mass_assault = 1
+	fleet_in_being = 1
+	basic_train = 1
+}
+
+
+add_ideas = {
+	german_advisors
+}
+
+600 = { #Jiangxi
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+749 = { #Huangshan
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+606 = { #Anhui
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+607 = { #Henan
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+620 = { #Hubei
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+602 = { #Hunan
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+750 = { #Changde
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+744 = { #Xian
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+605 = { #Sichuan
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+748 = { #Zunyi
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+603 = { #Guizhu
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+615 = { #Shanxi
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+622 = { #Shaanxi
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+325 = { #Yunnan
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+325 = { #Dali
+	add_dynamic_modifier = { modifier = dense_rural_infrastructure }
+}
+
+
+save_global_event_target_as = WTT_current_china_leader
+
+set_convoys = 40
+
+
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	neutrality = 60
+	despotism = 25
+	socialism = 15
+}
+
+add_opinion_modifier = { target = PRC modifier = hostile_status }
+
+### VARIANTS ###
+# 1936 Start #
+set_autonomy = {
+		target = SHX
+		autonomous_state = autonomy_integrated_puppet
+	}
+set_autonomy = {
+		target = GXC
+		autonomous_state = autonomy_integrated_puppet
+	}
+set_autonomy = {
+		target = YUN
+		autonomous_state = autonomy_integrated_puppet
+	}

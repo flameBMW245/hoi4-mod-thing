@@ -1,0 +1,35 @@
+spriteTypes = {	
+	#Germany
+	SpriteType = {
+		name = "GFX_idea_GER_broken_germany"
+		texturefile = "gfx/interface/ideas/national_spirits/idea_GER_broken_germany.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_GER_german_flag"
+		texturefile = "gfx/interface/ideas/national_spirits/idea_GER_german_flag.dds"
+	}
+
+	#Hungary
+	SpriteType = {
+		name = "GFX_idea_HUN_fortress_hungary"
+		texturefile = "gfx/interface/ideas/national_spirits/idea_HUN_fortress_hungary.dds"
+	}
+
+	#Jordan
+	SpriteType = {
+		name = "GFX_idea_JOR_israel_palestine"
+		texturefile = "gfx/interface/ideas/national_spirits/idea_JOR_israel_palestine.dds"
+	}
+
+	#League Africa
+	SpriteType = {
+		name = "GFX_idea_LAF_akosombo_dam"
+		texturefile = "gfx/interface/ideas/national_spirits/idea_LAF_akosombo_dam.dds"
+	}
+
+	#Malaya
+	SpriteType = {
+		name = "GFX_idea_MAL_border_conflicts"
+		texturefile = "gfx/interface/ideas/national_spirits/idea_MAL_border_conflicts.dds"
+	}
+}

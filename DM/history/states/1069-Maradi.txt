@@ -1,0 +1,23 @@
+state={
+	id=1069
+	name="STATE_1069"
+	history={
+		owner = SKT
+		add_core_of = SKT
+		add_core_of = NGR
+		buildings = {
+			infrastructure = 2
+		}
+		set_demilitarized_zone = yes
+		victory_points = {
+			8028 5
+		}
+	}
+	provinces={
+		8028
+	}
+	manpower=709747
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

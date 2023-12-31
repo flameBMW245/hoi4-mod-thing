@@ -1,0 +1,19 @@
+characters={
+	DOM_rafael_trujillo1={
+		name=DOM_rafael_trujillo1
+		portraits={
+			civilian={
+				large="GFX_portrait_dom_rafael_trujillo1"
+			}
+		}
+		country_leader={
+			ideology=corporatist_populism
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = DOM_RAFAEL_TRUJILLO_DESC
+		}
+	}
+
+	
+}

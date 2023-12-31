@@ -1,0 +1,19 @@
+characters={
+	EGY_king_farouk={
+		name=EGY_king_farouk
+		portraits={
+			civilian={
+				large="GFX_portrait_egy_king_farouk"
+			}
+		}
+		country_leader={
+			ideology=semi-constitutional_monarchy
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = EGY_KING_FAROUK_DESC
+		}
+	}
+
+	
+}

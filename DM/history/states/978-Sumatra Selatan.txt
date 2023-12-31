@@ -1,0 +1,28 @@
+state={
+	id=978
+	name="STATE_978"
+	history={
+		owner = IND
+		add_core_of = IND
+		victory_points = {
+			12268 10
+		}
+		buildings = {
+			infrastructure = 3
+			12268 = {
+				naval_base = 4
+
+			}
+			industrial_complex = 2
+			air_base = 3
+		}
+
+	}
+	provinces={
+		1246 1274 1401 4381 10150 10294 10322 12268 12296 
+	}
+	state_category=town
+	manpower=3467432
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

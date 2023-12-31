@@ -1,0 +1,24 @@
+state={
+	id=799
+	name="STATE_799"
+	provinces={
+		1072 12442 10383 12316 7513 2013 3942
+	}
+	manpower = 853000
+	
+	state_category = pastoral
+
+	history= {
+		owner = JOR
+		victory_points = {
+			3942 1
+		}
+		add_claim_by = TUR
+		add_core_of = SYR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,21 @@
+state={
+	id=1031
+	name="STATE_1031"
+	history={
+		owner = JOR
+		add_core_of = JOR
+		add_core_of = ISR
+		set_demilitarized_zone = yes
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		13310
+	}
+	manpower=12600
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

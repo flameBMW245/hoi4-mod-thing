@@ -1,0 +1,28 @@
+﻿capital = 328
+
+set_research_slots = 2
+
+set_technology = {
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+recruit_character = MAN_puyi
+
+set_politics = {
+	ruling_party = despotism
+	last_election = "1935.5.19"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	conservatism_ideology = 0
+	neutrality = 21
+	fascism = 6
+	communism = 0
+	despotism = 73
+}

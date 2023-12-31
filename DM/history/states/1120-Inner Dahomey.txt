@@ -1,0 +1,19 @@
+state={
+	id=1120
+	name="STATE_1120"
+	history = {
+		owner = TOG
+		add_core_of = TOG
+		add_core_of = DAH
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		12762 12874 13212
+	}
+	manpower=1041688
+	state_category = large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

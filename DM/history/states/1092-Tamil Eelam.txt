@@ -1,0 +1,29 @@
+state={
+	id=1092
+	name="STATE_1092"
+	history={
+		owner = DRA
+		add_core_of = DRA
+		add_core_of = RAJ
+		add_claim_by = INC
+
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			industrial_complex = 2
+			10201 = {
+				naval_base = 5
+			}
+		}
+		victory_points = {
+			10201 3 
+		}
+	}
+	provinces={
+		7344 10201 10229 12258
+	}
+	manpower=1369919 
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=981
+	name="STATE_981"
+	history={
+		owner = ITA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = YUG
+		add_core_of = MAC
+		add_core_of = ITA
+
+	}
+	provinces={
+		867 833
+	}
+	manpower=194556 
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=1122
+	name="STATE_1122"
+	history = {
+		owner = LAF
+		add_core_of = LAF
+		add_claim_by = SKT
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		1932 2025 8021 10820
+	}
+	manpower=293942
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

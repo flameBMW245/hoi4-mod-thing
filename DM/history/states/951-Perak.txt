@@ -1,0 +1,20 @@
+state={
+	id=951
+	name="STATE_951"
+	history={
+		owner = MAL
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			}
+		add_core_of = MAL
+
+	}
+	provinces={
+		1364 1376 4310 4384 12215 
+	}
+	manpower=1069139
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

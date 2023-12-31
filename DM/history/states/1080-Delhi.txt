@@ -1,0 +1,22 @@
+state={
+	id=1080
+	name="STATE_1080"
+	history={
+		owner = DEL
+		add_core_of = DEL
+		buildings = {
+			infrastructure = 4
+			air_base = 4
+		}
+		victory_points = {
+			2086 20
+		}
+	}
+	provinces={
+		2086
+	}
+	manpower=2283000
+	state_category=large_city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

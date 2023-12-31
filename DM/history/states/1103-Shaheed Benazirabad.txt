@@ -1,0 +1,19 @@
+state={
+	id=1103
+	name="STATE_1103"
+	history={
+		owner = KHR
+		add_core_of = KHR
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		4003 4110 1980 1147
+	}
+	manpower=2082277
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

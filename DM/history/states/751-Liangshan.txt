@@ -1,0 +1,33 @@
+state={
+	id=751
+	name="STATE_751"
+	provinces={
+		1999 2067 7294 10726 10841 
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	history={
+		owner = XIK
+		add_core_of = XIK
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			7294 5
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 1
+				infrastructure = 1
+
+			}
+
+		}
+
+	}
+
+	local_supplies=1.0 
+}

@@ -1,0 +1,34 @@
+defined_text = {
+	name = GetCountryIntroBackground
+
+	text = { trigger = { original_tag = GER }  localization_key = "GFX_GER_intro" }
+
+
+	text = { localization_key = "GFX_KR_default_intro" }
+}
+
+defined_text = {
+	name = GetCountryIntroHeader
+
+	text = { trigger = { original_tag = GER check_variable = { curr_page = 2 } }  localization_key = GER_country_intro_header_2 }
+	text = { trigger = { original_tag = GER check_variable = { curr_page = 1 } }  localization_key = GER_country_intro_header_1 }
+	text = { trigger = { original_tag = GER }  localization_key = GER_country_intro_header }
+}
+
+defined_text = {
+	name = GetCountryIntroContent
+
+	text = { trigger = { original_tag = GER check_variable = { curr_page = 2 } }  localization_key = GER_country_intro_content_2 }
+	text = { trigger = { original_tag = GER check_variable = { curr_page = 1 } }  localization_key = GER_country_intro_content_1 }
+	text = { trigger = { original_tag = GER }  localization_key = GER_country_intro_content }
+
+
+}
+
+defined_text = {
+	name = GetCountryGuide
+
+	text = { trigger = { original_tag = GER }  localization_key = GER_guide }
+
+}
+

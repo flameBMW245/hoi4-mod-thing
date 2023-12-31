@@ -1,0 +1,20 @@
+state={
+	id=1043
+	name="STATE_1043"
+	history={
+		owner = BUK
+		add_core_of = BUK
+		add_core_of = UZB
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		7682 4629
+	}
+	manpower=40200
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

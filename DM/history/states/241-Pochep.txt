@@ -1,0 +1,27 @@
+
+state={
+	id=241
+	name="STATE_241"
+
+	history={
+		owner = BLR
+		victory_points = {
+			9288 10 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+
+		}
+		add_core_of = BLR
+		add_core_of = UKR
+	}
+
+	provinces={
+		9288 9342 
+	}
+	manpower= 139213
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

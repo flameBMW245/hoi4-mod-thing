@@ -1,0 +1,19 @@
+characters={
+	VIN_nguyen_chanh_thi={
+		name=VIN_nguyen_chanh_thi
+		portraits={
+			civilian={
+				large="GFX_portrait_vin_nguyen_chanh_thi"
+			}
+		}
+		country_leader={
+			ideology=military_junta
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = VIN_NGUYEN_CHANH_THI_DESC
+		}
+	}
+
+	
+}

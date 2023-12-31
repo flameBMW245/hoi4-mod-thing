@@ -1,0 +1,27 @@
+state={
+	id=970
+	name="STATE_970"
+	history = {
+	
+		owner = BUK
+		
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+		
+		add_core_of = UZB
+		add_core_of = BUK
+		add_core_of = TAJ
+
+	}
+	provinces={
+		756 12722 12239
+	}
+	manpower=1380834
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

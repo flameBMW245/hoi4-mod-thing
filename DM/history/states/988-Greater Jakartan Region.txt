@@ -1,0 +1,20 @@
+state={
+	id=988
+	name="STATE_988"
+	history={
+		owner = IND
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+		}
+		add_core_of = IND
+
+	}
+	provinces={
+		4390 4406
+	}
+	state_category=large_city
+	manpower=9531549
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

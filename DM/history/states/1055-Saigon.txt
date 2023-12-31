@@ -1,0 +1,27 @@
+state={
+	id=1055
+	name="STATE_1055"
+	history={
+		owner = VIN
+		add_core_of = VIE
+		add_core_of = VIN
+		buildings = {
+			infrastructure = 2
+			4401 = {
+				naval_base = 4
+			}
+			industrial_complex = 1
+			air_base = 2
+		}
+		victory_points = {
+			4401 10
+		}
+	}
+	provinces={
+		10261 1396 7238 12232 4401
+	}
+	manpower=1448551
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

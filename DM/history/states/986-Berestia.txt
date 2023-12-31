@@ -1,0 +1,25 @@
+state={
+	id=986
+	name="STATE_986"
+	history={
+		owner = POL
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			3392 1
+		}
+		add_core_of = POL
+		add_core_of = UKR
+		set_state_name = STATE_986_POL
+		set_province_name = { id = 3392 name =  VICTORY_POINTS_3392_POL }
+	}
+	provinces={
+		3392 11466 9452 6580
+	}
+	manpower=102641 
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

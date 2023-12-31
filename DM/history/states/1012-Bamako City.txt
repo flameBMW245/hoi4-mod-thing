@@ -1,0 +1,24 @@
+state={
+	id=1012
+	name="STATE_1012"
+	history={
+		owner = LAF
+		add_core_of = LAF
+		add_core_of = MLI
+		victory_points = {
+			4927 5
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+	provinces={
+		4927 
+	}
+	manpower=219239
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

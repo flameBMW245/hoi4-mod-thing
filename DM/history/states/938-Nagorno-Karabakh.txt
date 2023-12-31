@@ -1,0 +1,23 @@
+state={
+	id=938
+	name="STATE_938"
+	history={
+		owner = ARM
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+
+		}
+		add_core_of = AZR
+		add_core_of = ARM
+		set_state_name = STATE_938_ARM
+
+	}
+	provinces={
+		1467 9715
+	}
+	manpower=130406
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,24 @@
+state={
+	id=1090
+	name="STATE_1090"
+	history={
+		owner = BTR
+		add_core_of = BTR
+		add_core_of = RAJ
+		add_core_of = INC
+
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			12241 5
+		}
+	}
+	provinces={
+		1622 7428 7465 12490 12241
+	}
+	manpower=643210 
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

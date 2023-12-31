@@ -1,0 +1,32 @@
+state={
+	id=1110
+	name="STATE_1110"
+	resources={
+		steel=19 # was: 60
+		aluminium=6 # was: 20
+	}
+	state_category = metropolis
+	history={
+		victory_points = {
+			495 20
+		}
+		victory_points = {
+			6469 10
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 7
+
+		}
+		add_core_of = GER
+		owner = GER
+		set_demilitarized_zone = yes
+	}
+
+	provinces={
+		495 3398 6469 
+	}
+	manpower=3418681
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

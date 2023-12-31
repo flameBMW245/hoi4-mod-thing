@@ -1,0 +1,143 @@
+characters={
+	GER_konrad_adenauer={
+		name=GER_konrad_adenauer
+		portraits={
+			civilian={
+				large="GFX_portrait_ger_konrad_adenauer"
+			}
+		}
+		country_leader={
+			ideology=national_conservative_type
+			traits={ Great_Survivor }
+			expire="1968.1.1.1"
+			id=-1
+			desc = GER_KONRAD_ADENAUER_DESC
+		}
+	}
+
+	GER_ludwig_erhard={
+		name=GER_ludwig_erhard
+		portraits={
+			civilian={
+				small="GFX_portrait_ger_ludwig_erhard"
+				large="GFX_portrait_ger_large_ludwig_erhard"
+			}
+		}
+		country_leader={
+			ideology=fiscal_conservative_type
+			traits={ economic_reformer }
+			expire="1978.1.1.1"
+			id=-1
+			desc = GER_LUDWIG_ERHARD_DESC
+		}	
+	}
+
+	GER_franz_josef_strauss={
+		name=GER_franz_josef_strauss
+		portraits={
+			civilian={
+				small="GFX_portrait_placeholder"
+			}
+		}
+		advisor={
+			cost = 0
+			removal_cost = -1
+			idea_token = GER_franz_josef_strauss
+			slot = political_advisor
+			desc = GER_FRANZ_JOSEF_STRAUSS_DESC
+			available = {
+				has_government = conservatism_ideology
+			}
+			allowed = {
+				original_tag = GER
+			}
+			traits = {
+				armaments_organizer
+			}
+		}		
+	}
+	GER_heinrich_von_brentano={
+		name=GER_heinrich_von_brentano
+		portraits={
+			civilian={
+				small="GFX_portrait_placeholder"
+			}
+		}
+		advisor={
+			cost = 0
+			removal_cost = -1
+			idea_token = GER_heinrich_von_brentano
+			slot = political_advisor
+			desc = GER_HEINRICH_VON_BRENTANO_DESC
+			available = {
+				has_government = conservatism_ideology
+			}
+			allowed = {
+				original_tag = GER
+			}
+			traits = {
+				smooth_talking_charmer
+			}
+		}		
+	}
+	GER_willy_brandt={
+		name=GER_willy_brandt
+		portraits={
+			civilian={
+				large="GFX_portrait_ger_willy_brandt"
+			}
+		}
+		country_leader={
+			ideology=social_democracy
+			traits={ Great_Survivor }
+			expire="1992.1.1.1"
+			id=-1
+			desc = GER_WILLY_BRANDT_DESC
+		}
+		
+	}
+	GER_unbekannt={
+		name=GER_unbekannt
+		portraits={
+			civilian={
+				large="GFX_portrait_large_placeholder"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1991.1.1.1"
+			id=-1
+		}
+		
+	}
+	GER_ernst_junger={
+		name=GER_ernst_junger
+		portraits={
+			civilian={
+				large="GFX_portrait_ger_ernst_junger"
+			}
+		}
+		country_leader={
+			ideology=bourgeois_socialism
+			traits={ }
+			expire="1998.1.1.1"
+			id=-1
+			desc = GER_ERNST_JUNGER_DESC
+		}
+	}
+	GER_erwin_rommel1={
+		name=GER_erwin_rommel1
+		portraits={
+			civilian={
+				large="GFX_portrait_ger_erwin_rommel"
+			}
+		}
+		country_leader={
+			ideology=military_supervised_democracy
+			traits={ }
+			expire="1968.1.1.1"
+			id=-1
+			desc = GER_ERWIN_ROMMEL1_DESC
+		}
+	}
+}

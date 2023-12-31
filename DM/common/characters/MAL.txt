@@ -1,0 +1,19 @@
+characters={
+	MAL_chin_peng={
+		name=MAL_chin_peng
+		portraits={
+			civilian={
+				large="GFX_portrait_mal_chin_peng"
+			}
+		}
+		country_leader={
+			ideology=mao_zedong_thought
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = MAL_CHIN_PENG_DESC
+		}
+	}
+
+	
+}

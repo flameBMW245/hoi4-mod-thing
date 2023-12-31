@@ -1,0 +1,24 @@
+state={
+	id=1023
+	name="STATE_1023"
+	history={
+		owner = SOV
+		add_core_of = SUK
+		add_core_of = SOV
+		add_claim_by = UKR
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			9566 1 
+		}
+		set_demilitarized_zone = yes
+	}
+	provinces={
+		11553 9566 3225
+	}
+	manpower=45430
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

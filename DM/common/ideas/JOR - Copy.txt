@@ -1,0 +1,24 @@
+ideas = {
+
+	country = {
+		JOR_israeli_autonomy = {
+			picture = JOR_israel_palestine
+			
+			allowed = {
+				always = no	
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				#
+			}
+		}
+
+	}
+		
+}

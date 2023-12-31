@@ -1,0 +1,20 @@
+state={
+	id=1047
+	name="STATE_1047"
+	history={
+		owner = BUK
+		add_core_of = BUK
+		add_core_of = TAJ
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		1919 11687 1216
+	}
+	manpower=500000
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

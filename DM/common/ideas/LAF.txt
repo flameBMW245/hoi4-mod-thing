@@ -1,0 +1,24 @@
+ideas = {
+
+	country = {
+		LAF_akosombo_dam = {
+			picture = LAF_akosombo_dam
+			
+			allowed = {
+				always = no	
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.03
+			}
+		}
+
+	}
+		
+}

@@ -1,0 +1,25 @@
+state={
+	id=1027
+	name="STATE_1027"
+	history={
+		owner = NIN
+		add_core_of = NIN
+		add_core_of = CHI
+		add_core_of = CHJ
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		victory_points = {
+			10724 5 
+		}
+	}
+	provinces={
+		5025 1985 8081 3742 10724
+	}
+	manpower=1583000
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

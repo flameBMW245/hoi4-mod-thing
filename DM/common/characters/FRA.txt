@@ -1,0 +1,19 @@
+characters={
+	FRA_charles_de_gaulle1={
+		name=FRA_charles_de_gaulle1
+		portraits={
+			civilian={
+				large="GFX_portrait_fra_charles_de_gaulle"
+			}
+		}
+		country_leader={
+			ideology=gaullism_type
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = FRA_CHARLES_DE_GAULLE1_DESC
+		}
+	}
+
+	
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=1009
+	name="STATE_1009"
+	history={
+		owner = GBR
+		victory_points = {
+			377 5 #Wrexham
+		}
+		victory_points = {
+			407 3 #Swansea
+		}
+		buildings = {
+			infrastructure = 3
+			377 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = GBR
+		add_core_of = ENG
+		add_core_of = WLS
+	}
+
+	provinces={
+		407 377
+	}
+	manpower=261300
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

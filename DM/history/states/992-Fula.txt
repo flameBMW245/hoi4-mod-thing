@@ -1,0 +1,21 @@
+state={
+	id=992
+	name="STATE_992"
+	history={
+		owner = UDA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = FUL
+		add_core_of = UDA
+
+	}
+	provinces={
+		13272 13304 13305
+	}
+	manpower=98146 
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

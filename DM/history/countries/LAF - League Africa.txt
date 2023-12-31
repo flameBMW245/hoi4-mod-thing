@@ -1,0 +1,42 @@
+﻿capital = 779
+
+set_research_slots = 2
+
+set_technology = {
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1935.5.19"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 2
+	neutrality = 68
+	fascism = 3
+	communism = 10
+ 	conservatism_ideology = 17
+ 	progressivism = 0
+}
+
+recruit_character = LAF_dag_hammarskjold
+
+add_ideas = {
+	free_trade
+	volunteer_only
+	civilian_economy
+
+	LAF_akosombo_dam
+}
+
+set_autonomy = {
+	target = BIA
+	autonomous_state = autonomy_integrated_puppet
+}

@@ -1,0 +1,23 @@
+state={
+	id=1108
+	name="STATE_1108"
+	state_category = metropolis
+	history={
+		owner = GER
+		victory_points = {
+			6558 20
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			air_base = 3
+		}
+		add_core_of = GER
+	}		
+	provinces={
+		9347 
+	}
+	manpower=1840543
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

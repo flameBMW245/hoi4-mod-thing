@@ -1,0 +1,19 @@
+characters={
+	TAJ_nizoramo_odinovna_zaripova={
+		name=TAJ_nizoramo_odinovna_zaripova
+		portraits={
+			civilian={
+				large="GFX_portrait_nizoramo_odinovna_zaripova"
+			}
+		}
+		country_leader={
+			ideology=constitutional_stratocracy
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = TAJ_NIZORAMO_ODINOVNA_ZARIPOVA_DESC
+		}
+	}
+
+	
+}

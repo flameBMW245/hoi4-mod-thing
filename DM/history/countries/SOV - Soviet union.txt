@@ -1,0 +1,79 @@
+﻿
+set_autonomy = {
+	target = SUK
+	autonomous_state = autonomy_military_reform_administration
+}
+
+#You don't want Russian party names? Just remove these lines
+set_party_name = {
+	ideology = communism
+	long_name = SOV_communism_party_russian_long
+	name = SOV_communism_party_russian
+}
+set_party_name = {
+	ideology = fascism
+	long_name = SOV_fascism_party_russian_long
+	name = SOV_fascism_party_russian
+}
+
+#COUNTRY LEADERS
+recruit_character = RUS_vladimir_i
+
+
+capital = 219
+
+starting_train_buffer = 3.0
+
+set_research_slots = 3
+set_stability = 0.5
+set_war_support = 0.3
+# Starting tech
+set_technology = { #WARNING: Do not just remove techs from here -> It can impact a lot of stuff. Before removing, double check that content does not count on these techs being researched
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_military_police = 1
+	tech_mountaineers = 1
+	motorised_infantry = 1
+	paratroopers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	mass_assault = 1
+	fleet_in_being = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	basic_train = 1
+}
+
+
+add_ideas = {	
+
+}
+
+
+set_convoys = 50
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1956.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	conservatism_ideology = 2
+	democratic = 8
+	fascism = 12
+	communism = 10
+	neutrality = 58
+	despotism = 10 
+}
+
+create_faction = "Pan-Eurasian Front"
+add_to_faction = SOV
+add_to_faction = MON
+add_to_faction = TAN
+
+
+

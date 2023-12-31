@@ -1,0 +1,21 @@
+state={
+	id=1014
+	name="STATE_1014"
+	history={
+		owner = UDA
+		add_core_of = UDA
+		add_claim_by = NGR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+	provinces={
+		13287 13286 13271 13291
+	}
+	manpower=19658
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

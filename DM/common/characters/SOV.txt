@@ -1,0 +1,19 @@
+characters={
+	RUS_vladimir_i={
+		name=RUS_vladimir_i
+		portraits={
+			civilian={
+				large="GFX_portrait_rus_vladimir_i"
+			}
+		}
+		country_leader={
+			ideology=transitioning_democracy
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = RUS_VLADIMIR_I_DESC
+		}
+	}
+
+	
+}

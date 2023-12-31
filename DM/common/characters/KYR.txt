@@ -1,0 +1,19 @@
+characters={
+	KYR_iskhak_razzakov={
+		name=KYR_iskhak_razzakov
+		portraits={
+			civilian={
+				large="GFX_portrait_iskhak_razzakov"
+			}
+		}
+		country_leader={
+			ideology=islamic_marxism
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = KYR_ISKHAK_RAZZAKOV_DESC
+		}
+	}
+
+	
+}

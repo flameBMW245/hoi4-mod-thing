@@ -1,0 +1,22 @@
+
+state={
+	id=1003
+	name="STATE_1003"
+	history={
+		owner = YUG
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = YUG
+		add_core_of = BOS
+	}
+
+	provinces={
+		11574 606
+	}
+	manpower=35570
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

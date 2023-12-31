@@ -1,0 +1,19 @@
+characters={
+	AZD_azawad_tuaregs={
+		name=AZD_azawad_tuaregs
+		portraits={
+			civilian={
+				large="GFX_portrait_azd_azawad_tuaregs"
+			}
+		}
+		country_leader={
+			ideology=clan_societies
+			traits={ # }
+			expire="1968.1.1.1"
+			id=-1
+			desc = AZD_AZAWAD_TUAREGS_DESC
+		}
+	}
+
+	
+}

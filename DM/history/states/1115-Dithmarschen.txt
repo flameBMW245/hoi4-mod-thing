@@ -1,0 +1,25 @@
+state={
+	id=1115
+	name="STATE_1115"
+	state_category = town
+	history={
+		victory_points = {
+			3368 5
+		}
+		owner = HLS
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 3
+		}
+		add_core_of = GER
+		add_core_of = HLS
+	}
+
+	provinces={
+		3368 
+	}
+	manpower=106323 
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

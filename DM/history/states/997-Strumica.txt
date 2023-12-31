@@ -1,0 +1,28 @@
+
+state={
+	id=997
+	name="STATE_997"
+	history={
+		owner = BUL
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = YUG
+		add_core_of = BUL
+		add_core_of = MAC
+
+		victory_points = {
+			907 1
+		}
+
+	}
+
+	provinces={
+		907
+	}
+	manpower=38830	
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

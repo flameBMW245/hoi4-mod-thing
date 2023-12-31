@@ -1,0 +1,19 @@
+state={
+	id=1123
+	name="STATE_1123"
+	history = {
+		owner = LAF
+		add_core_of = LAF
+		add_core_of = NGR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		4889 7978
+	}
+	manpower=434924
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

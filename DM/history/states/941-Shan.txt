@@ -1,0 +1,21 @@
+state={
+	id=941
+	name="STATE_941"
+	history={
+		owner = SIA
+		add_core_of = SIA
+		add_core_of = BRM
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+	provinces={
+		4175 4210 7400 7647 7909 7974 12317 
+	}
+	manpower=4724432
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

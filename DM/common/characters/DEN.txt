@@ -1,0 +1,19 @@
+characters={
+	DEN_aksel_larsen={
+		name=DEN_aksel_larsen
+		portraits={
+			civilian={
+				large="GFX_portrait_den_aksel_larsen"
+			}
+		}
+		country_leader={
+			ideology=democratic_socialism
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = DEN_AKSEL_LARSEN_DESC
+		}
+	}
+
+	
+}

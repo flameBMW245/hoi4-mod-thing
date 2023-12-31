@@ -1,0 +1,33 @@
+characters={
+	AUS_kurt_schuschnigg={
+		name=AUS_kurt_schuschnigg
+		portraits={
+			civilian={
+				large="GFX_portrait_aus_kurt_schuschnigg"
+			}
+		}
+		country_leader={
+			ideology=clerical_fascism
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = AUS_KURT_SCHUSCHNIGG_DESC
+		}
+	}
+
+	AUS_josef_klaus={
+		name=AUS_josef_klaus
+		portraits={
+			civilian={
+				large="GFX_portrait_aus_josef_klaus"
+			}
+		}
+		country_leader={
+			ideology=clerical_fascism
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = AUS_JOSEF_KLAUS_DESC
+		}
+	}
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=1002
+	name="STATE_1002"
+	history={
+		owner = YUG
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = YUG
+		add_core_of = BOS
+		victory_points = {
+			11899 5 
+		}
+	}
+
+	provinces={
+		11872 11899 11741
+	}
+	manpower=318520
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

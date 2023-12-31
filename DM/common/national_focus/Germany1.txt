@@ -1,0 +1,689 @@
+### search_filters = {FOCUS_FILTER_POLITICAL}
+### search_filters = {FOCUS_FILTER_RESEARCH}
+### search_filters = {FOCUS_FILTER_INDUSTRY}
+### search_filters = {FOCUS_FILTER_STABILITY}
+### search_filters = {FOCUS_FILTER_WAR_SUPPORT}
+### search_filters = {FOCUS_FILTER_MANPOWER}
+### search_filters = {FOCUS_FILTER_ANNEXATION}
+
+focus_tree = {
+	id = german_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = GER
+		}
+	}
+	
+	default = no
+
+	continuous_focus_position = { x = 1000 y = 1000 }
+
+	focus = {
+		id = GER_twenty_Years_of_Peace
+		icon = GFX_goal_focus_GER_twenty_years_of_peace
+		x = 5
+		y = 0
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL FOCUS_FILTER_STABILITY}
+		completion_reward = {
+				add_political_power = 100
+				custom_effect_tooltip = GER_twenty_years_of_peace_tt
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_erhard_administration
+		icon = GFX_goal_focus_GER_erhard_administration
+		prerequisite = { focus = GER_twenty_Years_of_Peace 	}
+		x = 0
+		y = 1
+		relative_position_id = GER_twenty_Years_of_Peace
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+			add_political_power = 100
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_compromise
+		icon = GFX_goal_focus_GER_compromise
+		prerequisite = { focus = GER_erhard_administration 	}
+		x = 0
+		y = 1
+		relative_position_id = GER_erhard_administration
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+	focus = {
+		id = GER_internal_problems
+		icon = GFX_goal_focus_GER_internal_problems
+		prerequisite = { focus = GER_compromise }
+		x = 0
+		y = 1
+		relative_position_id = GER_compromise
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_anti_cartel_legislation
+		icon = GFX_goal_focus_GER_anti_cartel_legislation
+		prerequisite = { focus = GER_internal_problems }
+		x = 0
+		y = 1
+		relative_position_id = GER_internal_problems
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_compliance
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_anti_cartel_legislation }
+		x = 1
+		y = 1
+
+		available = {
+			NOT = { has_completed_focus = GER_put_it_to_vote }
+		}
+		relative_position_id = GER_anti_cartel_legislation
+		cost = 5
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_backroom_deal
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_anti_cartel_legislation }
+		x = 0
+		y = 1
+
+		available = {
+			NOT = { has_completed_focus = GER_put_it_to_vote }
+		}
+		relative_position_id = GER_compliance
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_blackmail
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_anti_cartel_legislation }
+		x = 0
+		y = 1
+
+		available = {
+			NOT = { has_completed_focus = GER_put_it_to_vote }
+		}
+		relative_position_id = GER_backroom_deal
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_agreement
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_anti_cartel_legislation }
+		x = 0
+		y = 1
+
+		available = {
+			NOT = { has_completed_focus = GER_put_it_to_vote }
+		}
+		relative_position_id = GER_blackmail
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_SPD_demands
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_anti_cartel_legislation }
+		x = -1
+		y = 1
+
+		available = {
+			NOT = { has_completed_focus = GER_put_it_to_vote }
+		}
+		relative_position_id = GER_anti_cartel_legislation
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_break_them_up
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_anti_cartel_legislation }
+		x = 0
+		y = 1
+
+		available = {
+			NOT = { has_completed_focus = GER_put_it_to_vote }
+		}
+		relative_position_id = GER_SPD_demands
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_promote_the_positives
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_anti_cartel_legislation }
+		x = 0
+		y = 1
+
+		available = {
+			NOT = { has_completed_focus = GER_put_it_to_vote }
+		}
+		relative_position_id = GER_break_them_up
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_hide_the_loopholes
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_anti_cartel_legislation }
+		x = 0
+		y = 1
+
+		available = {
+			NOT = { has_completed_focus = GER_put_it_to_vote }
+		}
+		relative_position_id = GER_promote_the_positives
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_put_it_to_vote
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_anti_cartel_legislation }
+		x = 0
+		y = 5
+		relative_position_id = GER_anti_cartel_legislation
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = { 
+	id = GER_legislation_pass 
+	icon = GFX_goal_focus_GER_politicking
+	prerequisite = { focus = GER_put_it_to_vote } 
+	x = 2 
+	y = 1
+	mutually_exclusive = { focus = GER_legislation_fail }
+	relative_position_id = GER_put_it_to_vote 
+	cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_legislation_fail
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_put_it_to_vote }
+		x = -2
+		y = 1
+		mutually_exclusive = { focus = GER_legislation_pass }
+		relative_position_id = GER_put_it_to_vote
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_exports
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_compromise }
+		x = 3
+		y = 1
+		relative_position_id = GER_compromise
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_creating_reputation
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_compromise }
+		x = -3
+		y = 1
+		relative_position_id = GER_compromise
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+	focus = {
+		id = GER_look_east
+		icon = GFX_goal_focus_GER_east
+		x = 15
+		y = 0
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+	focus = {
+		id = GER_oppose_east_west
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_look_east 	}
+		x = 0
+		y = 1
+		relative_position_id = GER_look_east
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_lives_saved
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_oppose_east_west }
+		x = 2
+		y = 1
+		relative_position_id = GER_oppose_east_west
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+	focus = {
+		id = GER_right_to_freedom
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_lives_saved }
+		x = 0
+		y = 1
+		relative_position_id = GER_lives_saved
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_appeal_to_ec
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_right_to_freedom }
+		x = 0
+		y = 1
+		relative_position_id = GER_right_to_freedom
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+	}
+
+	focus = {
+		id = GER_declare_intentions
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_oppose_east_west	}
+		x = -2
+		y = 1
+		relative_position_id = GER_oppose_east_west
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_promise_neutrality
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_declare_intentions	}
+		x = 0
+		y = 1
+		relative_position_id = GER_declare_intentions
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_demilitarise_border
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_promise_neutrality	}
+		x = 0
+		y = 1
+		relative_position_id = GER_promise_neutrality
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_money_gained
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_oppose_east_west	}
+		x = 0
+		y = 1
+		relative_position_id = GER_oppose_east_west
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_economic_aid
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_money_gained }
+		x = 0
+		y = 1
+		relative_position_id = GER_money_gained
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_trade_deals
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_economic_aid }
+		x = 0
+		y = 1
+		relative_position_id = GER_economic_aid
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_poznan_conference
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_trade_deals }
+		prerequisite = { focus = GER_demilitarise_border }
+		prerequisite = { focus = GER_appeal_to_ec }
+		x = 0
+		y = 1
+		relative_position_id = GER_trade_deals
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_what_a_mess
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_poznan_conference }
+		mutually_exclusive = { focus = GER_reluctant_compromise }
+		mutually_exclusive = { focus = GER_approval }
+		x = -3
+		y = 1
+		relative_position_id = GER_poznan_conference
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}
+
+	focus = {
+		id = GER_reluctant_compromise
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_poznan_conference }
+		mutually_exclusive = { focus = GER_what_a_mess }
+		mutually_exclusive = { focus = GER_approval }
+		x = 0
+		y = 1
+		relative_position_id = GER_poznan_conference
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}	
+
+	focus = {
+		id = GER_approval
+		icon = GFX_goal_focus_GER_politicking
+		prerequisite = { focus = GER_poznan_conference }
+		mutually_exclusive = { focus = GER_reluctant_compromise }
+		mutually_exclusive = { focus = GER_what_a_mess }
+		x = 3
+		y = 1
+		relative_position_id = GER_poznan_conference
+		cost = 5
+
+		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY }
+		completion_reward = {
+		}
+
+		ai_will_do = {
+			factor = 12
+		}
+		
+	}	
+
+
+}

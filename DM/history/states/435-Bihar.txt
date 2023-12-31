@@ -1,0 +1,25 @@
+state={
+	id=435
+	name="STATE_435"
+
+	history={
+		owner = RAJ
+		add_core_of = RAJ
+		add_claim_by = INC
+		add_claim_by = ICC
+		buildings = {
+			infrastructure = 3 #was: 5
+
+		}
+
+	}
+
+	provinces={
+		4459 10361 10878 1656 7475
+	}
+	manpower=46447979
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=0.0 
+}

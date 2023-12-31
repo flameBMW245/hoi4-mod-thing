@@ -1,0 +1,21 @@
+	state={
+	id=1106
+	name="STATE_1106"
+	history={
+		owner = KLT
+		add_core_of = KLT
+		victory_points = {
+			8066 1
+		}
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		8098 10813 8066	
+	}
+	manpower=676853
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

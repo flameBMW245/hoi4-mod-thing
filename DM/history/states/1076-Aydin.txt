@@ -1,0 +1,22 @@
+state={
+	id=1076
+	name="STATE_1076"
+	history={
+		owner = TUR
+		add_core_of = TUR
+		add_claim_by = GRE
+		buildings = {
+			infrastructure = 2
+			10038 = {
+				naval_base = 5
+			}
+		}
+	}
+	provinces={
+		10038 9929
+	}
+	manpower=134031
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

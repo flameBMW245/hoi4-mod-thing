@@ -1,0 +1,19 @@
+state={
+	id=1065
+	name="STATE_1065"
+	history={
+		owner = IND
+		add_core_of = IND
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		10178 1416
+	}
+	manpower=502531
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

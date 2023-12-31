@@ -1,0 +1,24 @@
+ideas = {
+
+	country = {
+		MAL_border_conflicts = {
+			picture = MAL_border_conflicts
+			
+			allowed = {
+				always = no	
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.03
+			}
+		}
+
+	}
+		
+}

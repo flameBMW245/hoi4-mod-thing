@@ -1,0 +1,25 @@
+state={
+	id=1111
+	name="STATE_1111"
+
+	state_category = town
+	history={
+		owner = POL
+		buildings = {
+			infrastructure = 3
+			11260 = {
+				bunker = 1
+
+			}
+		}
+		add_core_of = POL
+		add_core_of = GER
+		set_state_name = STATE_1111_POL
+	}
+	provinces={
+		9252 11260 13258 13259 11343 11478
+	}
+	manpower=843969
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

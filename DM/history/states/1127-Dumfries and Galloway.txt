@@ -1,0 +1,29 @@
+
+state={
+	id=1127
+	name="STATE_1127"
+
+	history={
+		owner = GBR
+		victory_points = {
+			11218 1 #Dumfries
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		add_core_of = SCO
+		add_core_of = ENG
+		add_core_of = GBR
+
+	}
+
+	provinces={
+		6350 9350 11218 
+	}
+	manpower=18930
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

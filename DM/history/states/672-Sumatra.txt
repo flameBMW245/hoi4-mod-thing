@@ -1,0 +1,41 @@
+
+state={
+	id=672
+	name="STATE_672"
+	resources={
+		rubber=150.000
+		oil=12.000
+		aluminium=28.000
+	}
+
+	history={
+		owner = IND
+		add_core_of = IND
+		victory_points = {
+			4652 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+			4652 = {
+				naval_base = 3
+
+			}
+			1648 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1428 1648 4652 7673 8360 10522 12126 4446 1460
+	}
+	manpower=8254900
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

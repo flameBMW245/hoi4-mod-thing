@@ -1,0 +1,194 @@
+#hello, nobody will see this, but special thanks to TNO for being open sourced
+
+
+ideologies = {
+	progressivism = {
+
+		types = {
+
+			social_democracy = {}
+			democratic_socialism = {}
+			progressive_democracy = {}
+			green_democracy = {}
+			kemalism = {}
+			bevanism = {}
+			under_development_progressivism = {}
+		}
+
+		dynamic_faction_names = {}
+		color = { 255 70 100 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	democratic = {
+
+		types = {
+
+			liberalism = {}
+			under_development_liberalism = {}
+		}
+
+		dynamic_faction_names = {}
+		color = { 52 151 237 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	conservatism_ideology = {
+
+		types = {
+
+			fiscal_conservative_type = {}
+			national_conservative_type = {}
+			liberal_conservative = {}
+			right_wing_libertarianism_type = {}
+			gaullism_type = {}
+			bourgeois_socialism = {}
+			eastern_establishment = {}
+			under_development_conservatism = {}
+		}
+
+		dynamic_faction_names = {}
+		color = { 0 0 255 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	socialism = {
+
+		types = {
+			libertarian_socialism = {}
+			arab_socialism = {}
+			marhaenism = {}
+			agrarian_socialism = {}
+			revolutionary_socialism = {}
+			syndicalism = {}
+			anarcho_syndicalism = {}
+			left_wing_populism = {}
+			left_libertarianism = {}
+			left_communism = {}
+			vperedism = {}
+			under_development_socialism = {}
+		}
+
+		dynamic_faction_names = {}
+		color = { 255 0 0 }
+		ai_neutral = yes
+		can_be_boosted = no
+
+	}
+
+	communism = {
+
+		types = {
+			marxism = {}
+			leninism = {}
+			stalinism = {}
+			anti_revisionism = {}
+			anarchist_communism = {}
+			authoritarian_socialism = {}
+			mao_zedong_thought = {}
+			islamic_marxism = {}
+			euro_communism = {}
+			under_development_communism = {}
+		}
+
+		dynamic_faction_names = {}
+		color = { 200 0 0 }
+		ai_neutral = yes
+		can_be_boosted = no
+
+	}
+
+	neutrality = {
+
+		types = {
+			controlled_democracy = {}
+			authoritarian_democracy = {}
+			transitioning_democracy = {}
+			guided_democracy = {}
+			semi-constitutional_monarchy = {}
+			constitutional_stratocracy = {}
+			parliamentary_semi-democracy = {}
+			right-wing_populism = {}
+			anocracy = {}
+			military_supervised_democracy = {}
+			dang_guo = {}
+			reformist_austrofascism = {} 
+			agrarianism = {}
+			under_development_authdem = {}
+
+		}
+
+		dynamic_faction_names = {}
+		color = { 124 124 124 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+
+	despotism = {
+
+		types = {
+			one_party = {}
+			personalist = {}
+			stratocracy = {}
+			absolute_monarchy = {}
+			despotism1 = {}
+			banditry = {}
+			monarchal_stratocracy = {}
+			clan_societies = {}
+			institutionalized_islam = {}
+			catholic_theocracy = {}
+			military_junta = {}
+			under_development_despotism = {}
+
+		}
+
+		dynamic_faction_names = {}
+		color = { 80 80 80 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+
+	fascism = {
+
+		types = {
+			nazism = {}
+			gen_nazism = {}
+			fascism_ideology = {}
+			falangism = {}
+			rexism = {}
+			corporatist_populism = {}
+			national_populism = {}
+			corporate_nationalism = {}
+			clerical_fascism = {}
+			national_syndicalism = {}
+			tennosei_fascism = {}
+			under_development_fascism = {}
+		}
+
+		dynamic_faction_names = {}
+		color = { 150 75 0 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	national_socialism = {
+
+		types = {
+			hitlerism = {}
+			strasserism = {}
+			national_bolshevism = {}			
+			volkism = {}
+			under_development_natsoc = {}
+		}
+
+		dynamic_faction_names = {}
+		color = { 51 51 51 }
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+}

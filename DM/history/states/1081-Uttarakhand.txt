@@ -1,0 +1,18 @@
+state={
+	id=1081
+	name="STATE_1081"
+	history={
+		owner = INC
+		add_core_of = INC
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		10021 1898 3989 5157
+	}
+	manpower=3611200
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

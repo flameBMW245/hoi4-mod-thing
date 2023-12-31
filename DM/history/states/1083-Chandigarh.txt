@@ -1,0 +1,21 @@
+state={
+	id=1083
+	name="STATE_1083"
+	history={
+		owner = PUN
+		add_core_of = PUN
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			13323 10 
+		}
+	}
+	provinces={
+		13323
+	}
+	manpower=119881
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

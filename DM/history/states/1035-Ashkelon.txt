@@ -1,0 +1,19 @@
+state={
+	id=1035
+	name="STATE_1035"
+	history={
+		owner = JOR
+		add_core_of = JOR
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		13312
+	}
+	manpower=24300
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

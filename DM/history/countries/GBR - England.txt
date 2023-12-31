@@ -1,0 +1,31 @@
+capital = 126
+
+set_research_slots = 3
+
+set_technology = {
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+recruit_character = GBR_aneurin_bevan
+recruit_character = GBR_oswald_mosley
+
+set_politics = {
+	ruling_party = progressivism
+	last_election = "1935.5.19"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	conservatism_ideology = 32
+	neutrality = 11
+	fascism = 12
+	progressivism = 23
+	democratic = 10
+	socialism = 12
+	communism = 0
+}

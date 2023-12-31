@@ -1,0 +1,23 @@
+state={
+	id=989
+	name="STATE_989"
+	history={
+		owner = SGH
+		victory_points = {
+			13266 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = SGH
+	}
+	provinces={
+		13265 13266 13267 13268 13269 2044
+	}
+	manpower=23453
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

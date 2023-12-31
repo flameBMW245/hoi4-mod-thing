@@ -1,0 +1,20 @@
+characters = {
+	JAP_sadao_araki1 = {
+		name = JAP_sadao_araki1
+		portraits = {
+			civilian = {
+				large = GFX_portrait_jap_sadao_araki1
+			}
+		}
+
+		country_leader = {
+			ideology = tennosei_fascism
+			traits = { }
+			expire = "1984.1.1.1"
+			id = -1
+			desc = JAP_SADAO_ARAKI1_DESC
+		}
+
+	}
+
+}

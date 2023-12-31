@@ -1,0 +1,20 @@
+state={
+	id=1016
+	name="STATE_1016"
+	history={
+		owner = NGR
+		add_core_of = NGR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+	provinces={
+		12707 13290 13289 13288
+	}
+	manpower=26439
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

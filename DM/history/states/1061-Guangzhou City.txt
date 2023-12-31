@@ -1,0 +1,29 @@
+state={
+	id=1061
+	name="STATE_1061"
+	history={
+		owner = JAP
+		add_core_of = CHI
+		add_core_of = JAP
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			1047 = {
+				naval_base = 5
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+		victory_points = {
+			1047 5
+		}
+	}
+	provinces={
+		1047
+	}
+	manpower=1271914
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

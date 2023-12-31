@@ -1,0 +1,21 @@
+state={
+	id=1102
+	name="STATE_1102"
+	history={
+		owner = KHR
+		add_core_of = KHR
+		victory_points = {
+			7084 3 
+		}
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		4382 7084 1971
+	}
+	manpower=4277966
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

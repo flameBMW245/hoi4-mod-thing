@@ -1,0 +1,22 @@
+state={
+	id=1093
+	name="STATE_1093"
+	history={
+		owner = ICC
+		add_core_of = ICC
+		add_core_of = RAJ
+		add_claim_by = INC
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		1059 4104 12063 1101 1538
+	}
+	manpower=2043124 
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

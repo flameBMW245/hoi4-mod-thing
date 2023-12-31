@@ -1,0 +1,27 @@
+﻿capital = 907
+
+set_research_slots = 2
+
+set_technology = {
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+recruit_character = EGY_king_farouk
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1935.5.19"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	conservatism_ideology = 11
+	neutrality = 57
+	fascism = 32
+	communism = 0
+}

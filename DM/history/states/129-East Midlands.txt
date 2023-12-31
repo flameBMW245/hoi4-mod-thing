@@ -1,0 +1,36 @@
+
+state={
+	id=129
+	name="STATE_129"
+	resources={
+		steel=11.000
+	}
+
+	history={
+		owner = GBR
+		victory_points = {
+			6237 10 
+		}
+		victory_points = {
+			11279 3 
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 5
+
+		}
+		add_core_of = ENG
+		add_core_of = GBR
+
+	}
+
+	provinces={
+		364 3353 6237 9250 9268 9322 11279
+	}
+	manpower=2480054
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=1078
+	name="STATE_1078"
+	history={
+		owner = TUR
+		add_core_of = TUR
+		add_claim_by = GRE
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		9921 11778 785
+	}
+	manpower=77464
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=1053
+	name="STATE_1053"
+	history={
+		owner = VIE
+		add_core_of = VIE
+		add_core_of = VIN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		12150 1605 1400
+	}
+	manpower=107907
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

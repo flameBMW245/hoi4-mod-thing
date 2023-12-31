@@ -1,0 +1,19 @@
+characters={
+	CHJ_su_tiren={
+		name=CHJ_su_tiren
+		portraits={
+			civilian={
+				large="GFX_portrait_CHJ_su_tiren"
+			}
+		}
+		country_leader={
+			ideology=corporate_nationalism
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = CHJ_SU_TIREN_DESC
+		}
+	}
+
+	
+}

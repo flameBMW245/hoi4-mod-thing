@@ -1,0 +1,19 @@
+state={
+	id=987
+	name="STATE_987"
+	history={
+		owner = AFG
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = PAK
+		add_core_of = AFG
+	}
+	provinces={
+		8044 7975
+	}
+	manpower=90544
+	state_category=wasteland
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

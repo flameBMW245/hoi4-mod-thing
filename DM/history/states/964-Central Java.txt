@@ -1,0 +1,21 @@
+state={
+	id=964
+	name="STATE_964"
+	history={
+		owner = IND
+		add_core_of = IND
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			dockyard = 1
+		}
+
+	}
+	provinces={
+		7223 7642 12277 
+	}
+	manpower=18407471
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

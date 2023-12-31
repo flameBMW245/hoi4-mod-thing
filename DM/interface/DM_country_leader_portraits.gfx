@@ -1,0 +1,251 @@
+spriteTypes = {
+	#afghanistan
+	spriteType = {
+		name = "GFX_portrait_afg_mohammad_zahir_shah"
+		texturefile = "gfx/leaders/AFG/Mohammad_Zahir_Shah.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_afg_mohammad_yusuf_khan"
+		texturefile = "gfx/leaders/AFG/Mohammad_Zahir_Shah.dds"
+	}
+
+	#austria
+	spriteType = {
+		name = "GFX_portrait_aus_kurt_schuschnigg"
+		texturefile = "gfx/leaders/AUS/Kurt_Schuschnigg.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_aus_josef_klaus"
+		texturefile = "gfx/leaders/AUS/Josef_Klaus.dds"
+	}
+
+	#azawad
+	spriteType = {
+		name = "GFX_portrait_azd_azawad_tuaregs"
+		texturefile = "gfx/leaders/AZD/Azawad_Tuaregs.dds"
+	}
+
+	#biafra
+	spriteType = {
+		name = "GFX_portrait_bia_chukwuemeka_odumegwu_ojukwu"
+		texturefile = "gfx/leaders/BIA/Chukwuemeka_Odumegwu_Ojukwu.dds"
+	}
+
+	#bulgaria
+	spriteType = {
+		name = "GFX_portrait_bul_simeon_ii"
+		texturefile = "gfx/leaders/BUL/Simeon_ii.dds"
+	}
+
+	#china
+	spriteType = {
+		name = "GFX_portrait_chi_legislative_yuan"
+		texturefile = "gfx/leaders/CHI/Legislative_Yuan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_chi_sun_fo"
+		texturefile = "gfx/leaders/CHI/Sun_Fo.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_chi_chiang_kai_shek"
+		texturefile = "gfx/leaders/CHI/Chiang_Kai_Shek.dds"
+	}
+
+	#cuba
+	spriteType = {
+		name = "GFX_portrait_cub_fidel_castro"
+		texturefile = "gfx/leaders/CUB/Fidel_Castro.dds"
+	}
+
+	#denmark
+	spriteType = {
+		name = "GFX_portrait_den_aksel_larsen"
+		texturefile = "gfx/leaders/DEN/Aksel_Larsen.dds"
+	}
+
+	#dominican republic
+	spriteType = {
+		name = "GFX_portrait_dom_rafael_trujillo1"
+		texturefile = "gfx/leaders/DOM/Rafael_Trujillo.dds"
+	}
+
+	#egypt
+	spriteType = {
+		name = "GFX_portrait_egy_king_farouk"
+		texturefile = "gfx/leaders/EGY/King_Farouk.dds"
+	}
+
+	#england (better)
+	spriteType = {
+		name = "GFX_portrait_gbr_oswald_mosley"
+		texturefile = "gfx/leaders/GBR/Oswald_Mosley.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_gbr_aneurin_bevan"
+		texturefile = "gfx/leaders/GBR/Aneurin_Bevan.dds"
+	}
+
+	#france
+	spriteType = {
+		name = "GFX_portrait_fra_charles_de_gaulle"
+		texturefile = "gfx/leaders/FRA/Charles_de_Gaulle.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_fra_francois_mitterand"
+		texturefile = "gfx/leaders/FRA/Francois_Mitterand.dds"
+	}
+
+	#germany
+	spriteType = {
+		name = "GFX_portrait_ger_ernst_junger"
+		texturefile = "gfx/leaders/GER/Ernst_Junger.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_ger_konrad_adenauer"
+		texturefile = "gfx/leaders/GER/Konrad_Adenauer.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_ger_ludwig_erhard"
+		texturefile = "gfx/characters/GER/Ludwig_Erhard.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_ger_large_ludwig_erhard"
+		texturefile = "gfx/leaders/GER/Ludwig_Erhard.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_placeholder"
+		texturefile = "gfx/characters/GER/Placeholder.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_large_placeholder"
+		texturefile = "gfx/leaders/GER/Dwight_Schrute_Placeholder.dds"
+	}	
+
+	spriteType = {
+		name = "GFX_portrait_ger_willy_brandt"
+		texturefile = "gfx/leaders/GER/Dwight_Schrute_Placeholder.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_ger_erwin_rommel"
+		texturefile = "gfx/leaders/GER/Erwin_Rommel.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_better_placeholder"
+		texturefile = "gfx/leaders/GER/Chair.dds"
+	}
+
+	#ireland
+	spriteType = {
+		name = "GFX_portrait_ire_cathal_goulding"
+		texturefile = "gfx/leaders/IRE/Cathal_Goulding.dds"
+	}
+
+	#italy
+	spriteType = {
+		name = "GFX_portrait_ita_adelchi_serena"
+		texturefile = "gfx/leaders/ITA/Adelchi_Serena.dds"
+	}
+
+	#japan
+	spriteType = {
+		name = "GFX_portrait_jap_sadao_araki1"
+		texturefile = "gfx/leaders/JAP/Sadao_Araki.dds"
+	}
+
+	#kyrgyzstan
+	spriteType = {
+		name = "GFX_portrait_iskhak_razzakov"
+		texturefile = "gfx/leaders/KYR/Iskhak_Razzakov.dds"
+	}
+
+	#league of nations in africa
+	spriteType = {
+		name = "GFX_portrait_laf_dag_hammarskjold"
+		texturefile = "gfx/leaders/LAF/Dag_Hammarskjold.dds"
+	}
+
+	#malaysia
+	spriteType = {
+		name = "GFX_portrait_mal_chin_peng"
+		texturefile = "gfx/leaders/MAL/Chin_Peng.dds"
+	}
+
+	#manchuria
+	spriteType = {
+		name = "GFX_portrait_man_puyi"
+		texturefile = "gfx/leaders/MAN/Puyi.dds"
+	}
+
+	#poland
+	spriteType = {
+		name = "GFX_portrait_pol_august_zaleski"
+		texturefile = "gfx/leaders/POL/August_Zaleski.dds"
+	}
+
+	#punjab
+	spriteType = {
+		name = "GFX_portrait_pun_yadavindra_singh"
+		texturefile = "gfx/leaders/PUN/Yadavindra_Singh.dds"
+	}
+
+	#japanese china
+	spriteType = {
+		name = "GFX_portrait_CHJ_su_tiren"
+		texturefile = "gfx/leaders/CHJ/Su_Tiren.dds"
+	}
+
+	#reorganized china
+	spriteType = {
+		name = "GFX_portrait_CHJ_su_tiren"
+		texturefile = "gfx/leaders/CHJ/Su_Tiren.dds"
+	}
+
+	#romania
+	spriteType = {
+		name = "GFX_portrait_Michael_i"
+		texturefile = "gfx/leaders/ROM/Michael_i.dds"
+	}
+
+	#russia
+	spriteType = {
+		name = "GFX_portrait_rus_vladimir_i"
+		texturefile = "gfx/leaders/RUS/Vladimir_i.dds"
+	}
+
+	#tajikistan
+	spriteType = {
+		name = "GFX_portrait_nizoramo_odinovna_zaripova"
+		texturefile = "gfx/leaders/TAJ/Nizoramo_Odinovna_Zaripova.dds"
+	}
+
+	#ukraine
+	spriteType = {
+		name = "GFX_portrait_oleksii_ivanovych_tykhy"
+		texturefile = "gfx/leaders/UKR/Oleksii_Ivanovych_Tykhy.dds"
+	}
+
+	#USA
+	spriteType = {
+		name = "GFX_portrait_usa_harold_stassen"
+		texturefile = "gfx/leaders/USA/Harold_Stassen.dds"
+	}
+
+	#vietnam
+	spriteType = {
+		name = "GFX_portrait_vin_nguyen_chanh_thi"
+		texturefile = "gfx/leaders/VIN/Nguyen_Chanh_Thi.dds"
+	}
+}

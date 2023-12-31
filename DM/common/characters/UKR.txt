@@ -1,0 +1,19 @@
+characters={
+	UKR_oleksii_ivanovych_tykhy={
+		name=UKR_oleksii_ivanovych_tykhy
+		portraits={
+			civilian={
+				large="GFX_portrait_oleksii_ivanovych_tykhy"
+			}
+		}
+		country_leader={
+			ideology=agrarianism
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = UKR_OLEKSII_IVANOVYCH_TYKHY
+		}
+	}
+
+	
+}

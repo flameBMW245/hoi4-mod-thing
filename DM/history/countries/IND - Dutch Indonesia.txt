@@ -1,0 +1,36 @@
+﻿capital = 960
+
+set_research_slots = 1
+
+set_technology = {
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = despotism
+	last_election = "1935.5.19"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	conservatism_ideology = 0
+	neutrality = 20
+	despotism = 70
+	fascism = 0
+	communism = 10
+}
+
+create_country_leader = {
+	name = "Dude"
+	desc = ""
+	picture = "gfx/leaders/GER/Dwight_Schrute_Placeholder.dds"
+	ideology = despotism
+	traits = {
+		#
+	}
+}

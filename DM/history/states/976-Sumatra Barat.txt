@@ -1,0 +1,19 @@
+state={
+	id=976
+	name="STATE_976"
+	history={
+		owner = IND
+		add_core_of = IND
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+	provinces={
+		7368 10354 10382 
+	}
+	manpower=2319057
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

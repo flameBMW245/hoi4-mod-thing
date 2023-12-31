@@ -1,0 +1,20 @@
+characters = {
+	ITA_adelchi_serena = {
+		name = ITA_adelchi_serena
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ita_adelchi_serena
+			}
+		}
+
+		country_leader = {
+			ideology = fascism_ideology
+			traits = { }
+			expire = "1984.1.1.1"
+			id = -1
+			desc = ADELCHI_SERENA_DESC
+		}
+
+	}
+
+}

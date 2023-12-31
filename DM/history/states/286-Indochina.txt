@@ -1,0 +1,28 @@
+
+state={
+	id=286
+	name="STATE_286"
+	resources={
+		rubber=55.000
+	}
+
+	history={
+		add_core_of = VIN
+		owner = VIN
+		add_core_of = VIE
+		set_demilitarized_zone = yes
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1285 1300 1328 1423 4334 4363 4405 7271 7347 7380 10162 10232 12109 12176 12204 
+	}
+	manpower=4245000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

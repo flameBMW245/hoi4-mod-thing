@@ -1,0 +1,24 @@
+﻿###########################
+# Chinese Events
+###########################
+
+add_namespace = france
+
+# Japanese Stage Border Incident
+country_event = {
+	id = france.1
+	title = "test event"
+	desc = "this is the first test event"
+	picture = GFX_report_event_chinese_soldiers_fighting
+	
+	is_triggered_only = yes
+	
+	option = { # Breaking point!
+		name = "this should be the first decision, hope it shows"
+		ai_chance = { factor = 90 }
+	}
+	option = { # Make more concessions
+		name = "second decision uwu"
+		ai_chance = { factor = 10 }
+	}
+}

@@ -1,0 +1,30 @@
+state={
+	id=963
+	name="STATE_963"
+	history={
+		owner = IND
+		add_core_of = IND
+		victory_points = {
+			10135 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 3
+			air_base = 1
+			10135 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+	provinces={
+		10135 
+	}
+	manpower=1389360
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

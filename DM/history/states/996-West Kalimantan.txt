@@ -1,0 +1,28 @@
+
+state={
+	id=996
+	name="STATE_996"
+	history={
+		owner = IND
+		add_core_of = IND
+		victory_points = {
+			4279 2
+		}
+		buildings = {
+			infrastructure = 2
+			4279 = {
+				naval_base = 1
+
+			}
+		}
+
+	}
+
+	provinces={
+		2222 4335 1230 1304 12129 4279 1316 10282 4409 
+	}
+	manpower=1581034	
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

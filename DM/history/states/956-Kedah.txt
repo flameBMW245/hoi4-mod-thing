@@ -1,0 +1,21 @@
+state={
+	id=956
+	name="STATE_956"
+	history={
+		owner = SIA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = MAL
+		add_core_of = SIA
+
+	}
+	provinces={
+		1291 
+	}
+	manpower=734947
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,32 @@
+state={
+	id=1060
+	name="STATE_1060"
+	history={
+		owner = CHI
+		add_core_of = CHI
+
+		buildings = {
+			infrastructure = 2
+			10076 = {
+				naval_base = 3
+				coastal_bunker = 1
+				bunker = 1
+			}
+			industrial_complex = 3
+		}
+		victory_points = { 
+			11913 15
+		}
+		victory_points = { 
+			10076 5
+		}
+
+	}
+	provinces={
+		11913 11982 10076 13142
+	}
+	manpower=3225900
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

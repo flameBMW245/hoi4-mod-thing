@@ -1,0 +1,36 @@
+﻿capital = 515
+
+set_research_slots = 1
+
+set_technology = {
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = despotism
+	last_election = "1935.5.19"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 0
+	neutrality = 90
+	fascism = 0
+	communism = 10
+}
+
+create_country_leader = {
+	name = "Region Under Development"
+	desc = "look away, this region's under development"
+	picture = GFX_portrait_better_placeholder
+	expire = "1984.4.2"
+	ideology = under_development_despotism
+	traits = {
+		
+	}
+}

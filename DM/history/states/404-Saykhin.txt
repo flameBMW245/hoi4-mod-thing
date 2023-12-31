@@ -1,0 +1,27 @@
+state = {
+	id = 404
+	name = "STATE_404" # Kyzyl Orda
+
+	history = {
+		owner = SOV
+		victory_points = {
+			7597 1
+		}
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SOV
+
+	}
+
+	provinces = {
+		7392 7597 7600 7657 10452 12329 4300 7243 7354 10353 4638 4581
+	}
+	manpower = 447020
+	buildings_max_level_factor = 1.000
+	state_category = pastoral
+
+	local_supplies = 0.0 
+}

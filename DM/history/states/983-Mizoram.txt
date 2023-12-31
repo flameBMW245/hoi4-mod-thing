@@ -1,0 +1,24 @@
+state={
+	id=983
+	name="STATE_983"
+	history={
+		add_core_of = ICC
+		add_core_of = BAN
+		add_core_of = RAJ
+
+		owner = ICC
+
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = RAJ
+
+	}
+	provinces={
+		997 10090 
+	}
+	manpower=266063
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

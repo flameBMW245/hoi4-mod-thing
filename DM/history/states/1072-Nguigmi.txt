@@ -1,0 +1,19 @@
+state={
+	id=1072
+	name="STATE_1072"
+	history={
+		owner = SKT
+		add_core_of = SKT
+		add_core_of = NGR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		10780
+	}
+	manpower=35748
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

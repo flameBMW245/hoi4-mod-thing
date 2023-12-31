@@ -1,0 +1,51 @@
+﻿l_english:
+ #focus
+ GER_twenty_Years_of_Peace:0 "20 years of peace"
+ GER_twenty_Years_of_Peace_desc:0 "20 Years have gone by ever since the fascists nearly destroyed our country, 20 years have passed after the reluctant Adenauer was chosen to keep ship of state afloat. It's time we finally bask in the fruits of our labor, the results from the hard work we have done to save Germany.. if there are any."
+ GER_twenty_years_of_peace_tt:0 "Germany is in stable hands, for now."
+ GER_compromise:0 "A coalition government, if you can keep it"
+ GER_compromise_desc:0 "All this buzz and talk from the individualistic, dividing left and the intolerant, terrorising right has given us the conclusion, both sides are not to be trusted. If we appeal to either side, we might get their support for now, but what will happen in the future? Will we still be in power then? Or will their influences grow to the point where they eclipse us? The government itself? One shudders to imagine. But regardless, the people need our guidance, and if we let ourselves bicker on which side we should ally ourselves to, we would get nowhere. What's so wrong about implementing both side's agendas to our policies? A little bit of everything won't hurt, will it?"
+ GER_erhard_administration:0 "the Erhard Administration"
+ GER_erhard_administration_desc:0 "Adenauer's retirement set an unprecented new era to abruptly begin, where now Germany would get a proper democracy, and of course, Adenaur's Minister of Economic got a mostly comfortable victory in the ballot, Ludwig Erhard, one hopes that he shall match the greatness of Adenauer, perhaps even surpassing him."
+ GER_look_east:0 "Look to the east"
+ GER_look_east_desc:0 "Germany has been taken the appearance of a mangled corpse ever since the end of the first world war, with only initial stabilization from the National Socialists, though that fell apart quickly. The result of all this is now a divided Germany, with East Germany basically a Polish cash grab, and West Germany being a French cash grab. It's maybe time we change this fate of ours."
+ GER_internal_problems:0 "Cleaning Up"
+ GER_internal_problems_desc:0 "i havent thought of an idea on what to put here yet"
+ GER_anti_cartel_legislation:0 "Anti Cartel Bill"
+
+ #characters
+ GER_unbekannt:0 "Unbekannt"
+ GER_konrad_adenauer:0 "Konrad Adenauer"
+ GER_ludwig_erhard:0 "Ludwig Erhard"
+ GER_franz_josef_strauss:0 "Franz Josef Strauss"
+ GER_heinrich_von_brentano:0 "Heinrich von Brentano"
+ GER_willy_brandt:0 "Willy Brandt"
+ GER_erwin_rommel1:0 "Johannes Erwin Eugen Rommel"
+ GER_ernst_junger:0 "Ernst Jünger"
+ GER_ERWIN_ROMMEL1_DESC:0 "General"
+ GER_KONRAD_ADENAUER_DESC:0 "Konrad Adenauer Gaming"
+ GER_LUDWIG_ERHARD_DESC:0 "Ministry of Economy and also Vice Chancellor"
+ GER_FRANZ_JOSEF_STRAUSS_DESC:0 "This guy is Ministry of Defense"
+ GER_HEINRICH_VON_BRENTANO_DESC:0 "This guy does diplo shit"
+ GER_WILLY_BRANDT_DESC:0 "He rebelled in TNO"
+ GER_ERNST_JUNGER_DESC:0 "Weirdo"
+
+ #ideas
+ die_neuen_bundeslander:0 "Die neuen Bundesländer"
+ die_neuen_bundeslander_desc:0 "Germany was divided into occupational zones ever since the collapse of the state. Unification created massive inequality gap, where the east is heavily underdeveloped while the west is richer and more industrialised. We must further our efforts in investing on east german industries, lest we let half the nation be a burdening, radical, and underdeveloped hellhole."
+ third_adenauer_cabinet:0 "The Third Adenauer Cabinet"
+ third_adenauer_cabinet_desc:0 "After a landslide victory in the 1957, Adenauer has yet again assembled a cabinet of ministers to run the country, though it is not without it's controversies."
+
+
+ #news
+
+ #welcome intro
+ GER_country_intro_header: "Germany's SCHNITZEL"
+ GER_country_intro_content: "PAGE 1 of my DIARY ENTRY!"
+
+ GER_country_intro_header_1: "Germany's germany german germany"
+ GER_country_intro_content_1: "Weeeeewoooooooo weeeeeewoooooo weeeeewoooooo"
+
+ GER_country_intro_header_2: "PAGE FUCKING 3 BABY"
+ GER_country_intro_content_2: "what?"
+ GER_guide: "Ger guide"

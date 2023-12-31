@@ -1,0 +1,18 @@
+characters = {
+	IRE_cathal_goulding = {
+		name = IRE_cathal_goulding
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ire_cathal_goulding
+			}
+		}
+
+		country_leader = {
+			ideology = euro_communism
+			traits = { }
+			expire = "1984.1.1.1"
+			id = -1
+			desc = IRE_CATHAL_GOULDING_DESC
+		}
+	}
+}

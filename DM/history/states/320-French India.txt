@@ -1,0 +1,24 @@
+
+state={
+	id=320
+	name="STATE_320"
+	manpower = 90377
+
+	state_category = town
+
+	history={
+		owner = ICC
+		add_core_of = ICC
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 3 #was: 5
+			10149 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={ 10149 }
+
+	local_supplies=0.0 
+}

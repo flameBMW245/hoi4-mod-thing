@@ -1,0 +1,19 @@
+characters={
+	CUB_fidel_castro1={
+		name=CUB_fidel_castro1
+		portraits={
+			civilian={
+				large="GFX_portrait_cub_fidel_castro"
+			}
+		}
+		country_leader={
+			ideology=authoritarian_socialism
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = CUB_FIDEL_CASTRO_DESC
+		}
+	}
+
+	
+}

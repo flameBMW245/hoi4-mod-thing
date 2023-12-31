@@ -1,0 +1,19 @@
+state={
+	id=1067
+	name="STATE_1067"
+	history={
+		owner = CEA
+		add_core_of = CEA
+		add_core_of = KYR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		10530 10660 10488
+	}
+	manpower=401700
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

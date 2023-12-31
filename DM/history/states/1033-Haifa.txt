@@ -1,0 +1,25 @@
+state={
+	id=1033
+	name="STATE_1033"
+	history={
+		owner = JOR
+		add_core_of = JOR
+		add_core_of = ISR
+		set_demilitarized_zone = yes
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+		}
+		victory_points = {
+			13311 1 
+		}
+	}
+	provinces={
+		13311
+	}
+	manpower=683827
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=972
+	name="STATE_972"
+	history={
+		owner = LIE
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = LIE
+		victory_points = {
+			13150 3
+		}
+	}
+	provinces={
+		13150 
+	}
+	manpower=10387
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

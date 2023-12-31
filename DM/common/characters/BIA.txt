@@ -1,0 +1,19 @@
+characters={
+	BIA_chukwuemeka_odumegwu_ojukwu={
+		name=BIA_chukwuemeka_odumegwu_ojukwu
+		portraits={
+			civilian={
+				large="GFX_portrait_bia_chukwuemeka_odumegwu_ojukwu"
+			}
+		}
+		country_leader={
+			ideology=transitioning_democracy
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = BIA_CHUKWUEMEKA_ODUMEGWU_OJUKWU_DESC
+		}
+	}
+
+	
+}

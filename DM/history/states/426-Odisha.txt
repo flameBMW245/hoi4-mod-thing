@@ -1,0 +1,31 @@
+
+state={
+	id=426
+	name="STATE_426" # Orissa
+	manpower = 15506386
+	
+	state_category = rural
+	
+	resources={
+		steel=25 # was: 44
+		chromium=20 # was: 36
+		aluminium=1 # was: 2
+	}
+
+	history={
+		owner = INC
+		add_core_of = INC
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+
+	}
+
+	provinces={
+		4513 7090 7372 9946 10060 10088 10116 10428 10469 11924 12462 
+	}
+
+	local_supplies=0.0 
+}

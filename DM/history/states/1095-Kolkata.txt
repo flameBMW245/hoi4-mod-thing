@@ -1,0 +1,30 @@
+state={
+	id=1095
+	name="STATE_1095"
+	history={
+		owner = ICC
+		add_core_of = ICC
+		add_core_of = RAJ
+		add_claim_by = INC
+
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			dockyard = 1
+			4245 = {
+				naval_base = 6
+
+			}
+		}
+		victory_points = {
+			4245 5 
+		}
+	}
+	provinces={
+		1444 4644 10077 4245 1159 4062 4204 7220
+	}
+	manpower=34926000 
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

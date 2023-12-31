@@ -1,0 +1,23 @@
+state={
+	id=991
+	name="STATE_991"
+	history={
+		owner = UDA
+		victory_points = {
+			13306 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = UDA
+		add_claim_by = SGH
+	}
+	provinces={
+		13260 13270	13301 13302 13303 13306 13307
+	}
+	manpower=26633
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

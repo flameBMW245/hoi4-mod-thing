@@ -1,0 +1,25 @@
+state={
+	id=1048
+	name="STATE_1048"
+	history={
+		owner = KAZ
+		add_core_of = KAZ
+		add_core_of = KYR
+
+		victory_points = {
+			12583 5
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+	}
+	provinces={
+		12583
+	}
+	manpower=223831
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

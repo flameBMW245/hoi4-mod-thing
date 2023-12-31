@@ -1,0 +1,21 @@
+state={
+	id=973
+	name="STATE_973"
+	history={
+		owner = IND
+		add_core_of = IND
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			dockyard = 1
+		}
+
+	}
+	provinces={
+		1313 1342 4276 4320 4361 12165 12209 
+	}
+	manpower=1377008
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

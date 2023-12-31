@@ -1,0 +1,19 @@
+characters={
+	LAF_dag_hammarskjold={
+		name=LAF_dag_hammarskjold
+		portraits={
+			civilian={
+				large="GFX_portrait_laf_dag_hammarskjold"
+			}
+		}
+		country_leader={
+			ideology=controlled_democracy
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = LAF_DAG_HAMMARSKJOLD_DESC
+		}
+	}
+
+	
+}

@@ -1,0 +1,24 @@
+state={
+	id=1096
+	name="STATE_1096"
+	history={
+		owner = ICC
+		add_core_of = ICC
+		add_core_of = RAJ
+		add_claim_by = INC
+		victory_points = {
+			4516 1 
+		}
+		buildings = {
+			infrastructure = 3
+		}
+
+	}
+	provinces={
+		4516 4571 4544 7537 
+	}
+	manpower=34926000 
+	state_category=city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

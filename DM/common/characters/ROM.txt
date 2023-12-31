@@ -1,0 +1,19 @@
+characters={
+	ROM_Michael_i={
+		name=ROM_Michael_i
+		portraits={
+			civilian={
+				large="GFX_portrait_Michael_i"
+			}
+		}
+		country_leader={
+			ideology=transitioning_democracy
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = ROM_MICHAEL_I_DESC
+		}
+	}
+
+	
+}

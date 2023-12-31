@@ -1,0 +1,23 @@
+state={
+	id=898
+	name="STATE_898"
+	manpower = 498718
+	state_category = wasteland
+
+	history={
+		owner = AIR
+		add_core_of = AIR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		5101 2068
+	}
+	
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

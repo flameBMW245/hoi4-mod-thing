@@ -1,0 +1,27 @@
+state={
+	id=1118
+	name="STATE_1118"
+
+	history={
+		owner = LAF
+		add_core_of = LAF
+		add_core_of = CMR
+		buildings = {
+			infrastructure = 1
+			6039 = {
+				naval_base = 1
+
+			}
+		}
+
+	}
+
+	provinces={
+		11194 6039 9137
+	}
+	manpower=143932
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
+

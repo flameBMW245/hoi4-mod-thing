@@ -1,0 +1,24 @@
+state={
+	id=979
+	name="STATE_979"
+	history={
+		owner = IND
+		add_core_of = IND
+		victory_points = {
+			4364 3
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+		}
+
+	}
+	provinces={
+		1332 4364 1373 12212 1533 12415
+	}
+	manpower=744381
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,24 @@
+state={
+	id=1020
+	name="STATE_1020"
+	history={
+		add_core_of = BLR
+		owner = BLR
+		add_claim_by = UKR
+		victory_points = {
+			3203 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+
+	}
+	provinces={
+		3507 9249 3203 215
+	}
+	manpower=15381
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

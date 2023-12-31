@@ -1,0 +1,21 @@
+state={
+	id=984
+	name="STATE_984"
+	history={
+		add_core_of = ICC
+		add_core_of = RAJ
+		add_claim_by = INC
+		owner = ICC
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+	provinces={
+		1581 
+	}
+	manpower=780000
+	state_category=large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

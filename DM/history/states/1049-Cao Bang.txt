@@ -1,0 +1,25 @@
+state={
+	id=1049
+	name="STATE_1049"
+	history={
+		owner = VIE
+		add_core_of = VIE
+		add_core_of = VIN
+
+		victory_points = {
+			12065 5
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+	}
+	provinces={
+		12065 7518 12008 10075
+	}
+	manpower=73549
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

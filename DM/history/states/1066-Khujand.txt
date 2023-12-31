@@ -1,0 +1,22 @@
+state={
+	id=1066
+	name="STATE_1066"
+	history={
+		owner = CEA
+		add_core_of = CEA
+		add_core_of = TAJ
+		victory_points = {
+			12430 5
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		12430
+	}
+	manpower=401700
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

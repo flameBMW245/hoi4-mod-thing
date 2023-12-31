@@ -1,0 +1,19 @@
+characters={
+	MAN_puyi={
+		name=MAN_puyi
+		portraits={
+			civilian={
+				large="GFX_portrait_man_puyi"
+			}
+		}
+		country_leader={
+			ideology= monarchal_stratocracy
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = MAN_PUYI_DESC
+		}
+	}
+
+	
+}

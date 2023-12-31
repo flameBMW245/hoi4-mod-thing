@@ -1,0 +1,49 @@
+bookmarks = {
+	bookmark = {
+		name = "An Different Time"
+		desc = "A_FASCIST_FOE_LOC"
+		date = 1960.1.1.12
+		picture = "GFX_DM_bookmark"
+		default_country = "GER"
+	
+		GER = {
+			history = GER_DM_DESC_LOC
+			ideology = democratic
+			ideas={
+				FRA_victors_of_wwi
+				die_neuen_bundeslander
+				third_adenauer_cabinet
+			}
+			focuses = {
+				GER_anti_cartel_legislation
+				GER_erhard_administration
+				GER_look_east
+			}
+		}
+
+		"---"={
+			history = "OTHER_BLITZKRIEG_DESC"
+		}
+
+		# minors from DLC ####
+		"CAN"={
+			minor = yes
+			history = "CAN_BLITZKRIEG_DESC"
+			ideology = democratic
+			ideas = {
+				CAN_great_depression_1
+				CAN_conscription_crisis
+			}
+			focuses = {
+				CAN_skewer_the_eagle
+				CAN_north_american_alliance
+				CAN_join_comintern
+			}
+		}
+		
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

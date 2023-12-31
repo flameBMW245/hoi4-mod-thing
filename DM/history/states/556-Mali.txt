@@ -1,0 +1,25 @@
+
+state={
+	id=556
+	name="STATE_556"
+	manpower = 1662391
+	state_category=rural
+
+	history={
+		owner = LAF
+		add_core_of = LAF
+		add_core_of = MLI
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		5045 12794 8116 13284
+	}
+	buildings_max_level_factor=1.000
+	
+	local_supplies=2.000
+}

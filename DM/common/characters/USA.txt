@@ -1,0 +1,19 @@
+characters={
+	USA_harold_stassen={
+		name=USA_harold_stassen
+		portraits={
+			civilian={
+				large="GFX_portrait_usa_harold_stassen"
+			}
+		}
+		country_leader={
+			ideology=eastern_establishment
+			traits={ }
+			expire="1984.1.1.1"
+			id=-1
+			desc = USA_HAROLD_STASSEN_DESC
+		}
+	}
+
+	
+}

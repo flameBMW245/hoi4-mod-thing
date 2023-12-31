@@ -1,0 +1,30 @@
+state={
+	id=1112
+	name="STATE_1112"
+	state_category = city
+	resources={
+		steel=20 # was: 60
+
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			11531 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+
+		}
+		add_core_of = FRA
+		add_core_of = GER
+
+	}
+	provinces={
+		11531 
+	}
+	manpower=1060493	
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

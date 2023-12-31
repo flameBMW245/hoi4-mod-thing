@@ -1,0 +1,25 @@
+
+state={
+	id=598
+	name="STATE_598"
+	
+	state_category = town
+
+	history={
+		owner = CHJ
+		add_core_of = CHJ
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+		1029 1076 4001 4005 4031 4082 4123 4148 7025 7142 7181 7200 9953 9956 10095 12055 12067 13144 1089 11928 4091
+	}
+	manpower=23669300
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

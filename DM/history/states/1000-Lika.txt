@@ -1,0 +1,23 @@
+
+state={
+	id=1000
+	name="STATE_1000"
+	history={
+		owner = ITA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = YUG
+		add_core_of = CRO
+		add_core_of = ITA
+	}
+
+	provinces={
+		13252 591 3601 6611 11901 984 
+	}
+	manpower=205807
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

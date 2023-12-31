@@ -1,0 +1,20 @@
+state={
+	id=1044
+	name="STATE_1044"
+	history={
+		owner = TRK
+		add_core_of = TRK
+		add_core_of = UZB
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		2058 4923 4467 12581 1483
+	}
+	manpower=40200
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,25 @@
+state={
+	id=616
+	name="STATE_616"
+
+	history={
+		owner = NIN
+		add_core_of = NIN
+		add_core_of = CHI
+		add_core_of = CHJ
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		5031 5057 7511 8127 12776 7803 10899 10770 7727 4783
+	}
+	manpower=2077600
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=0.0 
+}

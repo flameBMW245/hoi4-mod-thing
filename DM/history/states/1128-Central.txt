@@ -1,0 +1,34 @@
+
+state={
+	id=1128
+	name="STATE_1128"
+
+	history={
+		owner = GBR
+		victory_points = { 
+			6300 1 
+		}
+		victory_points = {
+			3150 1 #Dundee
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			6300 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = SCO
+		add_core_of = ENG
+		add_core_of = GBR
+
+	}
+
+	provinces={
+		159 6300 9383 3150
+	}
+	manpower=640890
+	state_category=rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
