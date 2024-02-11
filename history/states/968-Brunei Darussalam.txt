@@ -1,0 +1,29 @@
+state={
+	id=968
+	name="STATE_968"
+	history={
+		owner = BOR
+		victory_points = {
+			7371 1 
+		}
+		buildings = {
+			infrastructure = 2
+			7371 = {
+				naval_base = 2
+
+			}
+
+		}
+		add_core_of = MAL
+		add_core_of = BOR
+
+	}
+
+	provinces={
+		7371 7387 
+	}
+	manpower=32700
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

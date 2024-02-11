@@ -1,0 +1,25 @@
+state={
+	id=994
+	name="STATE_994"
+	history={
+		owner = FUL
+		victory_points = {
+			13273 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 3
+
+		}
+		add_core_of = FUL
+
+	}
+	provinces={
+		13274 13273
+	}
+	manpower=493975
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

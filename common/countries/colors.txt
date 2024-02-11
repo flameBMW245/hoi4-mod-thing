@@ -369,8 +369,8 @@ HON = {
 	color_ui = rgb { 128 145 65 }
 }
 IRQ = {
-	color = rgb { 178 114 99 }
-	color_ui = rgb { 231 148 129 }
+	color = rgb { 119  145  127 }
+	color_ui = rgb { 119  145  127 }
 }
 JAP = {
 	color = hsv { 0.05 0.3 1 }
